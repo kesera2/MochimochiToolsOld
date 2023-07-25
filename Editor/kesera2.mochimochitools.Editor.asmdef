@@ -1,0 +1,14 @@
+{
+  "name": "kesera2.mochimochitools.Editor",
+  "references": [
+    "kesera2.mochimochitools"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}
